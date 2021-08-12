@@ -7,4 +7,4 @@ corresponding pull request appended.
 
 ## [1.0.0] - 2021-03-18
 
-This is the initial release of the module, with support for <module_name_here> resources.
+This is the initial release of the module, with support for `terraform-ibm-portworx` resources.
